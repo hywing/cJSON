@@ -25,6 +25,8 @@
 #include <string.h>
 #include "cJSON.h"
 
+// this is a demo comment
+
 /* Used by some code below as an example datatype. */
 struct record
 {
